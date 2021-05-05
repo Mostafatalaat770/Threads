@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607269010 source:/home/musty/Documents/OS/lab2/Merge Sort/main.cpp
+	<iostream>
+	<vector>
+	<thread>
+

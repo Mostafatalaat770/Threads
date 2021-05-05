@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607260831 source:/home/musty/Documents/OS/lab2/Matrix Multiplication/main.cpp
+	<iostream>
+	<thread>
+	<vector>
+	<time.h>
+	<ctime>
+
