@@ -6,7 +6,8 @@
 
 - The computation of each element of the output matrix happens in a thread.
 - The computation of each row of the output matrix happens in a thread.
-  Time difference was found between the two implementations.
+
+Time difference was found between the two implementations.
 
 | Element wise | Row wise  |
 | ------------ | --------- |
